@@ -1,2 +1,4 @@
-# javascript-storage-48
+# Javascript Storage 48
+
 JSON serializer utility for browser storage keys in JavaScript.
+
